@@ -2,5 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "gatsby-test",
   },
-  plugins: [],
+  plugins: [
+    `gatsby-plugin-remove-trailing-slashes`
+  ],
 };
