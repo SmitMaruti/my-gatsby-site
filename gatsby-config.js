@@ -3,6 +3,6 @@ module.exports = {
     title: "gatsby-test",
   },
   plugins: [
-    'gatsby-plugin-create-page-html',
+    `gatsby-plugin-remove-trailing-slashes`,
   ]
 };
