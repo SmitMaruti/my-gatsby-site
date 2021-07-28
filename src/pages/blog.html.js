@@ -9,7 +9,7 @@ const Blog = () => {
         <Link to="/">index</Link>
       </p>
       <p>
-        <Link to="/about.html">about</Link>
+        <Link to="/about">about</Link>
       </p>
     </>
   )

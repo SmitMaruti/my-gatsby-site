@@ -6,10 +6,10 @@ const IndexPage = () => {
     <>
       <h1>Index</h1>
       <p>
-        <Link to="/blog.html">blog</Link>
+        <Link to="/blog">blog</Link>
       </p>
       <p>
-        <Link to="/about.html">about</Link>
+        <Link to="/about">about</Link>
       </p>
     </>
   )
