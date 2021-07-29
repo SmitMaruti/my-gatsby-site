@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "gatsby-test",
   },
-  plugins: [ 'gatsby-redirect-from',
+  plugins: [ 
   'gatsby-plugin-meta-redirect'
   ]
 };
